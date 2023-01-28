@@ -1,3 +1,4 @@
+<html>
 <table class="center">
 <style>
       table,tr,th,td {
@@ -101,3 +102,4 @@
     </tr>
 
 </table>
+</html>
