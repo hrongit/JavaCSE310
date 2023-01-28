@@ -1,6 +1,7 @@
 <html>
    <body>
-   <h1>
+   <h1>Java CSE310 Hackerrank Questions & Solution</h1>
+   <h3>
    <table class="center", style="border:1px solid black">
     <tr>
         <td id="left">S.No</td>
