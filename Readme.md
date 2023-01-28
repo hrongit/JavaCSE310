@@ -1,11 +1,6 @@
 <html>
-<style>
-      table,tr,td {
-         border:1px solid black;
-      }
-   </style>
    <body>
-   <table class="center">
+   <table class="center", style="border:1px solid black">
     <tr>
         <td id="left">S.No</td>
         <td id="center">Question Link</td>
