@@ -1,10 +1,11 @@
 <html>
-<table class="center">
 <style>
       table,tr,th,td {
          border:1px solid black;
       }
    </style>
+   <body>
+   <table class="center">
     <tr>
         <td id="left">S.No</td>
         <td id="center">Question Link</td>
@@ -102,4 +103,5 @@
     </tr>
 
 </table>
+</body>
 </html>
