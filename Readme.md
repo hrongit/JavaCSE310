@@ -1,10 +1,10 @@
 <html>
    <body>
    <h1>Java CSE310 Hackerrank Questions & Solution</h1>
-   <table style="text-align: center ,border:1px solid black">
+   <table style="text-align: center ,border:1px solid black,width:100%">
     <tr>
         <td id="left">S.No</td>
-        <td id="center">Question Link</td>
+        <td id="center",>Question Link</td>
         <td id="right">Solution</td>
     </tr>
     <tr>
