@@ -1,6 +1,6 @@
 <html>
 <style>
-      table,tr,th,td {
+      table,tr,td {
          border:1px solid black;
       }
    </style>
