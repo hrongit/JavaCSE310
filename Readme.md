@@ -45,57 +45,57 @@
     </tr>
     <tr>
         <td rowspan="2",style="white-space: nowrap, width:20%">DAY_5</td>
-        <td style="width:90%"><a href="url">QUE 1</a></td>
-        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+        <td style="width:90%"><a href="https://www.hackerrank.com/contests/cse310-26108-day5/challenges/cse310-21482-1">QUE 1</a></td>
+        <td style="white-space: nowrap"><a href="https://github.com/hrongit/JavaCSE310/blob/main/DAY5_Q1.java">Solution</a></td>
     </tr>
     <tr>
-        <td style="width:90%"><a href="url">QUE 2</a></td>
-        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+        <td style="width:90%"><a href="https://www.hackerrank.com/contests/cse310-26108-day5/challenges/cse310-w1-27947">QUE 2</a></td>
+        <td style="white-space: nowrap"><a href="https://github.com/hrongit/JavaCSE310/blob/main/DAY5_Q2.java">Solution</a></td>
     </tr>
     <tr>
         <td rowspan="2",style="white-space: nowrap, width:20%">DAY_6</td>
-        <td style="width:90%"><a href="url">QUE 1</a></td>
-        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+        <td style="width:90%"><a href="https://www.hackerrank.com/contests/cse310-26108-day6/challenges/cse310-w2-1">QUE 1</a></td>
+        <td style="white-space: nowrap"><a href="https://github.com/hrongit/JavaCSE310/blob/main/DAY6_Q1.java">Solution</a></td>
     </tr>
     <tr>
-        <td style="width:90%"><a href="url">QUE 2</a></td>
-        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+        <td style="width:90%"><a href="https://www.hackerrank.com/contests/cse310-26108-day6/challenges/cse310-26108-w2">QUE 2</a></td>
+        <td style="white-space: nowrap"><a href="https://github.com/hrongit/JavaCSE310/blob/main/DAY6_Q2.java">Solution</a></td>
     </tr>
     <tr>
         <td rowspan="2",style="white-space: nowrap, width:20%">DAY_7</td>
-        <td style="width:90%"><a href="url">QUE 1</a></td>
-        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+        <td style="width:90%"><a href="https://www.hackerrank.com/contests/cse310-26108-day7/challenges/absolute-value-26699-1">QUE 1</a></td>
+        <td style="white-space: nowrap"><a href="https://github.com/hrongit/JavaCSE310/blob/main/DAY7_Q1.java">Solution</a></td>
     </tr>
     <tr>
-        <td style="width:90%"><a href="url">QUE 2</a></td>
-        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+        <td style="width:90%"><a href="https://www.hackerrank.com/contests/cse310-26108-day7/challenges/week2-26699-1-1">QUE 2</a></td>
+        <td style="white-space: nowrap"><a href="https://github.com/hrongit/JavaCSE310/blob/main/DAY7_Q2.java">Solution</a></td>
     </tr>
     <tr>
         <td rowspan="2",style="white-space: nowrap, width:20%">DAY_8</td>
-        <td style="width:90%"><a href="url">QUE 1</a></td>
-        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+        <td style="width:90%"><a href="https://www.hackerrank.com/contests/cse310-26108-day8/challenges/29565-w2-p1">QUE 1</a></td>
+        <td style="white-space: nowrap"><a href="https://github.com/hrongit/JavaCSE310/blob/main/DAY8_Q1.java">Solution</a></td>
     </tr>
     <tr>
-        <td style="width:90%"><a href="url">QUE 2</a></td>
-        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+        <td style="width:90%"><a href="https://www.hackerrank.com/contests/cse310-26108-day8/challenges/26121-w2-p1">QUE 2</a></td>
+        <td style="white-space: nowrap"><a href="https://github.com/hrongit/JavaCSE310/blob/main/DAY8_Q2.java">Solution</a></td>
     </tr>
     <tr>
         <td rowspan="2",style="white-space: nowrap, width:20%">DAY_9</td>
-        <td style="width:90%"><a href="url">QUE 1</a></td>
-        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+        <td style="width:90%"><a href="https://www.hackerrank.com/contests/cse310-26108-day9/challenges/cse310-28845-w2-2">QUE 1</a></td>
+        <td style="white-space: nowrap"><a href="https://github.com/hrongit/JavaCSE310/blob/main/DAY9_Q1.java">Solution</a></td>
     </tr>
     <tr>
-        <td style="width:90%"><a href="url">QUE 2</a></td>
-        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+        <td style="width:90%"><a href="https://www.hackerrank.com/contests/cse310-26108-day9/challenges/cse310-w2-2">QUE 2</a></td>
+        <td style="white-space: nowrap"><a href="https://github.com/hrongit/JavaCSE310/blob/main/DAY9_Q2.java">Solution</a></td>
     </tr>
     <tr>
         <td rowspan="2",style="white-space: nowrap, width:20%">DAY_10</td>
-        <td style="width:90%"><a href="url">QUE 1</a></td>
-        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+        <td style="width:90%"><a href="https://www.hackerrank.com/contests/cse310-26108-day10/challenges/cse310-21482-week2-1">QUE 1</a></td>
+        <td style="white-space: nowrap"><a href="https://github.com/hrongit/JavaCSE310/blob/main/DAY10_Q1.java">Solution</a></td>
     </tr>
     <tr>
-        <td style="width:90%"><a href="url">QUE 2</a></td>
-        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+        <td style="width:90%"><a href="https://www.hackerrank.com/contests/cse310-26108-day10/challenges/cse310-w3-27947">QUE 2</a></td>
+        <td style="white-space: nowrap"><a href="https://github.com/hrongit/JavaCSE310/blob/main/DAY10_Q2.java">Solution</a></td>
     </tr>
 
 </table>
