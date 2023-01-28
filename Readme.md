@@ -6,7 +6,7 @@
     </tr>
     <tr>
         <td rowspan="2",style="white-space: nowrap, width:30%">DAY_1</td>
-        <td style="width:900%"><a href="url">QUE 1</a></td>
+        <td style="width:90%"><a href="url">QUE 1</a></td>
         <td style="white-space: nowrap"><a href="url">Solution</a></td>
     </tr>
     <tr>
