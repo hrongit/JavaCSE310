@@ -35,12 +35,12 @@
     </tr>
     <tr>
         <td rowspan="2",style="white-space: nowrap, width:20%">DAY_4</td>
-        <td style="width:90%"><a href="url">QUE 1</a></td>
-        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+        <td style="width:90%"><a href="https://www.hackerrank.com/contests/cse310-26108-day4/challenges/cse310-max-week1-2">QUE 1</a></td>
+        <td style="white-space: nowrap"><a href="https://github.com/hrongit/JavaCSE310/blob/main/DAY4_Q1.java">Solution</a></td>
     </tr>
     <tr>
-        <td style="width:90%"><a href="url">QUE 2</a></td>
-        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+        <td style="width:90%"><a href="https://www.hackerrank.com/contests/cse310-26108-day4/challenges/w1-p1-16920">QUE 2</a></td>
+        <td style="white-space: nowrap"><a href="https://github.com/hrongit/JavaCSE310/blob/main/DAY4_Q2.java">Solution</a></td>
     </tr>
     <tr>
         <td rowspan="2",style="white-space: nowrap, width:20%">DAY_5</td>
