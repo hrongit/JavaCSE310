@@ -2,7 +2,7 @@
    <body>
    <h1>Java CSE310 Hackerrank Questions & Solution</h1>
    <h3>
-   <table style="border:1px solid black", text-align: center>
+   <table style="text-align: center ,border:1px solid black">
     <tr>
         <td id="left">S.No</td>
         <td id="center">Question Link</td>
