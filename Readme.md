@@ -5,53 +5,94 @@
         <td id="right">Solution</td>
     </tr>
     <tr>
-        <td style="white-space: nowrap, width:20%">1</td>
-        <td style="width:90%"><a href="url">DAY 1</a></td>
+        <td rowspan="2",style="white-space: nowrap, width:30%">DAY_1</td>
+        <td style="width:90%"><a href="url">QUE 1</a></td>
         <td style="white-space: nowrap"><a href="url">Solution</a></td>
     </tr>
     <tr>
-        <td style="white-space: nowrap, width:20%">2</td>
-        <td style="width:90%"><a href="url">DAY 2</a></td>
+        <td style="width:90%"><a href="url">QUE 2</a></td>
         <td style="white-space: nowrap"><a href="url">Solution</a></td>
     </tr>
     <tr>
-        <td style="white-space: nowrap, width:20%">3</td>
-        <td style="width:90%"><a href="url">DAY 3</a></td>
+        <td rowspan="2",style="white-space: nowrap, width:20%">DAY_2</td>
+        <td style="width:90%"><a href="url">QUE 1</a></td>
         <td style="white-space: nowrap"><a href="url">Solution</a></td>
     </tr>
     <tr>
-        <td style="white-space: nowrap, width:20%">4</td>
-        <td style="width:90%"><a href="url">DAY 4</a></td>
+        <td style="width:90%"><a href="url">QUE 2</a></td>
         <td style="white-space: nowrap"><a href="url">Solution</a></td>
     </tr>
     <tr>
-        <td style="white-space: nowrap, width:20%">5</td>
-        <td style="width:90%"><a href="url">DAY 5</a></td>
+        <td rowspan="2",style="white-space: nowrap, width:20%">DAY_3</td>
+        <td style="width:90%"><a href="url">QUE 1</a></td>
         <td style="white-space: nowrap"><a href="url">Solution</a></td>
     </tr>
     <tr>
-        <td style="white-space: nowrap, width:20%">6</td>
-        <td style="width:90%"><a href="url">DAY 6</a></td>
+        <td style="width:90%"><a href="url">QUE 2</a></td>
         <td style="white-space: nowrap"><a href="url">Solution</a></td>
     </tr>
     <tr>
-        <td style="white-space: nowrap, width:20%">7</td>
-        <td style="width:90%"><a href="url">DAY 7</a></td>
+        <td rowspan="2",style="white-space: nowrap, width:20%">DAY_4</td>
+        <td style="width:90%"><a href="url">QUE 1</a></td>
         <td style="white-space: nowrap"><a href="url">Solution</a></td>
     </tr>
     <tr>
-        <td style="white-space: nowrap, width:20%">8</td>
-        <td style="width:90%"><a href="url">DAY 8</a></td>
+        <td style="width:90%"><a href="url">QUE 2</a></td>
         <td style="white-space: nowrap"><a href="url">Solution</a></td>
     </tr>
     <tr>
-        <td style="white-space: nowrap, width:20%">9</td>
-        <td style="width:90%"><a href="url">DAY 9</a></td>
+        <td rowspan="2",style="white-space: nowrap, width:20%">DAY_5</td>
+        <td style="width:90%"><a href="url">QUE 1</a></td>
         <td style="white-space: nowrap"><a href="url">Solution</a></td>
     </tr>
     <tr>
-        <td style="white-space: nowrap, width:20%">10</td>
-        <td style="width:90%"><a href="url">DAY 10</a></td>
+        <td style="width:90%"><a href="url">QUE 2</a></td>
         <td style="white-space: nowrap"><a href="url">Solution</a></td>
     </tr>
+    <tr>
+        <td rowspan="2",style="white-space: nowrap, width:20%">DAY_6</td>
+        <td style="width:90%"><a href="url">QUE 1</a></td>
+        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+    </tr>
+    <tr>
+        <td style="width:90%"><a href="url">QUE 2</a></td>
+        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2",style="white-space: nowrap, width:20%">DAY_7</td>
+        <td style="width:90%"><a href="url">QUE 1</a></td>
+        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+    </tr>
+    <tr>
+        <td style="width:90%"><a href="url">QUE 2</a></td>
+        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2",style="white-space: nowrap, width:20%">DAY_8</td>
+        <td style="width:90%"><a href="url">QUE 1</a></td>
+        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+    </tr>
+    <tr>
+        <td style="width:90%"><a href="url">QUE 2</a></td>
+        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2",style="white-space: nowrap, width:20%">DAY_9</td>
+        <td style="width:90%"><a href="url">QUE 1</a></td>
+        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+    </tr>
+    <tr>
+        <td style="width:90%"><a href="url">QUE 2</a></td>
+        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2",style="white-space: nowrap, width:20%">DAY_10</td>
+        <td style="width:90%"><a href="url">QUE 1</a></td>
+        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+    </tr>
+    <tr>
+        <td style="width:90%"><a href="url">QUE 2</a></td>
+        <td style="white-space: nowrap"><a href="url">Solution</a></td>
+    </tr>
+
 </table>
