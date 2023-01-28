@@ -1,4 +1,9 @@
 <table class="center">
+<style>
+      table,tr,th,td {
+         border:1px solid black;
+      }
+   </style>
     <tr>
         <td id="left">S.No</td>
         <td id="center">Question Link</td>
